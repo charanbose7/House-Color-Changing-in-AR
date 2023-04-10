@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="VRButton" size="10.000000 7.153333" />
+    <ImageTarget name="Birthday_Card" size="10.000000 6.667222" />
+    <ImageTarget name="Building" size="10.000000 9.872222" />
+    <ImageTarget name="VISITING_CARD_1" size="10.000000 5.714286" />
+    <ImageTarget name="ArImage" size="10.000000 13.128205" />
+  </Tracking>
+</QCARConfig>
